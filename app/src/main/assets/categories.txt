@@ -1,0 +1,47 @@
+Breakfast
+Lunch
+Dinner
+Dessert
+Snack
+Appetizer
+Salad
+Soup
+Beverage
+Vegan
+Vegetarian
+Gluten-Free
+Keto
+Paleo
+Seafood
+Pasta
+Grill
+BBQ
+Baking
+Holiday
+Asian
+Mexican
+Italian
+Mediterranean
+Indian
+Middle Eastern
+American
+French
+Low-Carb
+Quick & Easy
+Slow Cooker
+Comfort Food
+Healthy
+Kids
+Party
+Side Dish
+Stew
+Casserole
+Sandwich
+Smoothie
+Sauce
+Dip
+Pizza
+Rice
+Bread
+Brunch
+Holiday Special
